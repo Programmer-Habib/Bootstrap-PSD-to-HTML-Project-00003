@@ -110,10 +110,10 @@ p{
 }
 @media(min-width:1600px){
     .banner-section{
-        padding: 25rem !important;
+        padding: 25rem 0 !important;
     }
     .login-section{
-        padding: 16rem !important;
+        padding: 16rem 0 !important;
     }
 }
 /* =========================
@@ -336,7 +336,7 @@ p{
      LOGIN SECTION
 ========================= */
 .login-section{
-    padding: 15rem;
+    padding: 15rem 0;
 }
 .login-form{
     background: var(--sectionBgColor);
