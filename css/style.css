@@ -122,6 +122,9 @@ p{
 .sub-up-nav{
     background: var(--sectionBgColor);
 }
+.sub-down-nav{
+    background: var(--bgColor)
+}
 .sub-down-nav form button{
     background: var(--btnBgColor);
     border: none;
